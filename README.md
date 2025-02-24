@@ -73,7 +73,7 @@ This client can be customized via the `config.cfg` file.
 ## Changelog  
 ### Version 1.0  
 - Initial release of **RggD9 Discord Client**.  
-- Basic WebView2-based Discord client.  
+- Simple WebView2-based Discord client.  
 - Support for background mode.  
 - Ability to load custom JavaScript.  
 - Configurable settings via `config.cfg`.  
