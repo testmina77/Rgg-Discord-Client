@@ -16,7 +16,7 @@ WebView2 is used as the web browser (Microsoft Edge, Windows 10+).
 
 ![Console logs](preview/preview4.PNG)  
 
-## Installation  
+# Installation  
 
 ### Requirements  
 - Windows 10 or newer  
