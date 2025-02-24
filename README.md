@@ -1,4 +1,4 @@
-## RggD9 Discord Client  
+# RggD9 Discord Client  
 A Discord client written in C++.  
 
 WebView2 is used as the web browser (Microsoft Edge, Windows 10+).  
