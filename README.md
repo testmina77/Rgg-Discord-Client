@@ -81,5 +81,5 @@ This client can be customized via the `config.cfg` file.
 
 ## To-Do  
 ### Planned Features  
-- 🔄 **Auto-update system** *(Planned – to allow seamless updates)*  
-- 🔄 **Better error handling & debugging tools** *(Planned – more detailed logs)*  
+- 🔄 **Auto-update system** 
+- 🔄 **Better error handling**
