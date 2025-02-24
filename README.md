@@ -8,10 +8,13 @@ WebView2 is used as the web browser (Microsoft Edge, Windows 10+).
 - Can execute custom JavaScript files.   
 
 ### Preview  
-![Main window](preview\preview1.PNG)
-![Main window with ShowConsole TRUE](preview\preview2.PNG)  
-![Tray icon menu](preview\preview3.PNG)
-![Console logs](preview\preview4.PNG)  
+![Main window](preview/preview1.PNG)
+
+![Main window with console](preview/preview2.PNG)  
+
+![Tray icon menu](preview/preview3.PNG)
+
+![Console logs](preview/preview4.PNG)  
 
 ## Installation  
 
