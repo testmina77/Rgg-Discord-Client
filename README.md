@@ -45,7 +45,6 @@ This client can be customized via the `config.cfg` file.
     "useAppDataForData": false,
     "customDataFolder": ".\\RggD9 Discord Client",
     "useCustomScripts": true,
-    "useCustomCss": false,
     "ShowConsole": false,
     "pauseOnExit": false,
     "screen": {
